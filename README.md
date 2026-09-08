@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Varonis](https://www.varonis.com/)**  
-
-  Data security platform strong in access intelligence, permissions analytics, and monitoring of sensitive data exposure, especially on file systems and hybrid environments.
-
-
-
-- **[BigID](https://bigid.com/)**  
-
-  Leading data discovery, classification, and privacy platform that supports DSPM, DSAR, and governance use cases across structured and unstructured data.
-
-
-
-- **[Microsoft Purview](https://www.microsoft.com/en-us/security/business/microsoft-purview)**  
-
-  Microsoft’s unified data governance and protection suite covering discovery, classification, labeling, DLP, and DSPM-style capabilities, especially strong in Microsoft 365 and Azure environments.
-
-
-
-- **[IBM Guardium](https://www.ibm.com/products/guardium-data-protection)**  
-
-  Established data security and monitoring platform focused on database activity monitoring, vulnerability assessment, and sensitive data protection.
-
-
-
-- **[Securiti](https://securiti.ai/)**  
-
-  Data command center combining privacy, security, and governance with sensitive data discovery and automation.
-
-
-
-- **[Cyera](https://www.cyera.com/)**  
-
-  Cloud-native DSPM platform focused on discovering and securing sensitive data across cloud data stores with strong emphasis on data risk and AI readiness.
-
-
-
-- **[Sentra](https://www.sentra.io/)**  
-
-  Cloud-native DSPM solution emphasizing continuous discovery, classification, and protection of sensitive data without moving data out of the customer environment.
-
-
-
-- **[Normalyze, Dig Security](https://normalyze.io/)**  
-
-  DSPM and data security platforms targeting cloud data posture, exposure detection, and risk prioritization.
-
-
-
-- **[Ground Labs](https://www.groundlabs.com/)**  
-
-  Specialized sensitive data discovery and scanning tools used for locating regulated data across diverse repositories.
-
-
-
-- **[Other DSPM & data security platforms](https://www.varonis.com/)**  
-
-  Additional vendors offering classification, data detection and response (DDR), and cloud data security capabilities.
+| Product | Description | Starting Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[Varonis](https://www.varonis.com/)** | Data security platform strong in access intelligence, permissions analytics, and monitoring of sensitive data exposure across hybrid environments. | Starting at ~$50 – $95 per user/year (or ~$310/connector/year on AWS Marketplace) | 30-day Free Trial (Data Risk Assessment on full environment) |
+| **[BigID](https://bigid.com/)** | Leading data discovery, classification, and privacy platform supporting DSPM, DSAR, and governance across structured and unstructured data. | Starting at ~$25,000/year (~$2,083/month) for entry-level deployments | 30-day Free Trial (Proof of Concept / live evaluation) |
+| **[Microsoft Purview](https://www.microsoft.com/en-us/security/business/microsoft-purview)** | Microsoft’s unified data governance suite covering discovery, classification, labeling, DLP, and DSPM capabilities for M365 and Azure. | Starting at $12/user/month (Purview Information Protection add-on) or $0.40/capacity unit hour | 90-day Free Trial (up to 25 user licenses) / 30-day Data Map trial |
+| **[IBM Guardium](https://www.ibm.com/products/guardium-data-protection)** | Established data security platform focused on database activity monitoring, vulnerability assessment, and sensitive data protection. | Starting at ~$1,500 per managed server/year (or ~$100,000/year base enterprise tier) | 30-day Free Trial (Guardium Insights SaaS) / 90-day evaluation trial (Guardium Data Protection) |
+| **[Securiti](https://securiti.ai/)** | Data command center combining privacy, security, and governance with sensitive data discovery and automation. | Starting at ~$50,000/year base entry (via AWS Marketplace platform contract) | 30-day Free Trial (Proof of Concept / guided environment trial) |
+| **[Cyera](https://www.cyera.com/)** | Cloud-native DSPM platform focused on discovering and securing sensitive data across cloud data stores with emphasis on data risk and AI. | Starting at $50,000/year (Standard Package up to 25 TB on AWS Marketplace) | 30-day Free Trial / Proof of Concept (up to 25 TB scanned) |
+| **[Sentra](https://www.sentra.io/)** | Cloud-native DSPM solution emphasizing continuous discovery, classification, and protection without moving data out of customer environments. | Starting at $50,000/year (Standard Plan 12-month contract on AWS Marketplace) | 30-day Free Trial / Proof of Concept (full feature evaluation) |
+| **[Normalyze](https://normalyze.io/)** | Cloud DSPM platform targeting data posture, exposure detection, and risk prioritization (acquired by Proofpoint). | Starting at $995/month (Premium plan for up to 3 cloud accounts & 1 TB data) | Free forever plan available for 1 cloud account ($0 cost) |
+| **[Dig Security](https://www.paloaltonetworks.com/prisma/cloud/dspm)** | Real-time cloud data security posture management (DSPM) and DDR, now integrated into Palo Alto Networks Prisma Cloud. | Starting at ~$18,000/year (~$1,500/month or $90/credit for Prisma Cloud) | 30-day Free Trial (up to 100 cloud workloads / accounts) |
+| **[Ground Labs](https://www.groundlabs.com/)** | Specialized sensitive data discovery and scanning tools (Card Recon / Enterprise Recon) for locating regulated data across repositories. | Starting at $1,250 per target/year (Card Recon Desktop & Server) | 7-day Free Trial (Card Recon Desktop scanner) |
 
 
 
